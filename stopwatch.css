@@ -1,0 +1,37 @@
+.start-button {
+  background-color: green;
+  color: white;
+  font-size: 20px;
+  font-family: arial;
+  padding: 10px 15px;
+  border: none;
+  cursor: pointer;
+  margin-left: 10px;
+}
+
+.stop-button {
+  background-color: red;
+  color: white;
+  font-size: 20px;
+  font-family: arial;
+  padding: 10px 15px;
+  border: none;
+  cursor: pointer;
+  margin-left: 10px;
+}
+
+.reset-button {
+  background-color: pink;
+  color: white;
+  font-size: 20px;
+  font-family: arial;
+  padding: 10px 15px;
+  border: none;
+  cursor: pointer;
+  margin-left: 10px;
+}
+
+body {
+  background-color: gray;
+  text-align: center;
+}
